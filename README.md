@@ -1,4 +1,4 @@
-# Siema-slaider-Alux
+# Siema-slider-Alux
 
 Problema: 
 se inserisco uno slider con codice html come da esempio sito Alux, funziona tutto. Se tento di dinamicizzare lo slider, le immagini vengono richiamate correttamente dal loop ma mi compaiono una sotto l'altra. 
