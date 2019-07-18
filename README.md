@@ -3,8 +3,8 @@
 Problema: 
 se inserisco uno slider con codice html come da esempio sito Alux, funziona tutto. Se tento di dinamicizzare lo slider, le immagini vengono richiamate correttamente dal loop ma mi compaiono una sotto l'altra. 
 
-Il codice in questione comincia alla riga 100 e finisce alla riga 142 del file php incluso.
+Il codice PHP in questione comincia alla riga 100 e finisce alla riga 142 del file page-example.php.
 
-Ho aggiunto il counter ma non so se così serva a qualche cosa, comunque se lo elimino non cambia niente.
+Le immagini vengono richiamate da un custom field di ACF ed è settato su Image URL.
 
-Il campo delle immagini in ACF è settato su Image URL ed è l'unico modo per visualizzarle.
+L'inizializzazione di Siema nel file script.js comincia alla riga 104
