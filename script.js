@@ -38,7 +38,6 @@
   });
 
   // Smooth scrolling when clicking an anchor link
-
   document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
       e.preventDefault();
@@ -103,7 +102,6 @@
 
 
   // Slider Siema dal framework Alux
-
   var next = document.querySelector(".container-siema__next");
   var prev = document.querySelector(".container-siema__prev");
   var slideCount = document.querySelector(".siema").children.length - 1;
