@@ -1,10 +1,11 @@
 # Siema-slider-Alux
 
-Problema: 
-se inserisco uno slider con codice html come da esempio sito Alux, funziona tutto. Se tento di dinamicizzare lo slider, le immagini vengono richiamate correttamente dal loop ma mi compaiono una sotto l'altra. 
+Come includere carousel Siema in Wordpress con il framework Alux di Andrea Marchetti
 
-Il codice PHP in questione comincia alla riga 100 e finisce alla riga 142 del file page-example.php.
+sito web Alux: http://afmarchetti.github.io/alux/
 
-Le immagini vengono richiamate da un custom field di ACF ed è settato su Image URL.
+sito web Siema di : https://github.com/pawelgrzybek/siema
 
-L'inizializzazione di Siema nel file script.js comincia alla riga 104
+Inizializzare in un file .js creato appositamente per gli script personali
+
+Includere markup html o php nel file di destinazione
